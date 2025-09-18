@@ -1,0 +1,48 @@
+{
+  "timestamp": 1755575531.8310435,
+  "total_alerts": 6,
+  "alerts": [
+    {
+      "person_id": 0,
+      "type": "loiter_high_value_zone",
+      "zone": "electronics",
+      "duration": 24.27385139465332,
+      "severity": "warning"
+    },
+    {
+      "person_id": 0,
+      "type": "loiter_high_value_zone",
+      "zone": "electronics",
+      "duration": 24.543076276779175,
+      "severity": "warning"
+    },
+    {
+      "person_id": 0,
+      "type": "loiter_high_value_zone",
+      "zone": "electronics",
+      "duration": 24.79918384552002,
+      "severity": "warning"
+    },
+    {
+      "person_id": 0,
+      "type": "loiter_high_value_zone",
+      "zone": "electronics",
+      "duration": 25.066351890563965,
+      "severity": "warning"
+    },
+    {
+      "person_id": 0,
+      "type": "loiter_high_value_zone",
+      "zone": "electronics",
+      "duration": 25.335169792175293,
+      "severity": "warning"
+    },
+    {
+      "person_id": 0,
+      "type": "loiter_high_value_zone",
+      "zone": "electronics",
+      "duration": 25.60787272453308,
+      "severity": "warning"
+    }
+  ]
+}
